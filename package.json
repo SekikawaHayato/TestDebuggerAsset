@@ -1,7 +1,7 @@
 {
   "name": "com.dump.debugger",
   "version": "1.0.0",
-  "displayName": "Debugger Asset",
+  "displayName": "DebuggerAsset",
   "description": "This is an debugger asset",
   "unity": "2020.2",
   "unityRelease": "0b5",
